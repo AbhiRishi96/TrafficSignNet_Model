@@ -1,0 +1,3 @@
+ImageName,PredictedLabel,PredictionScore,PredictedLabelID
+12624.png,Road work,1.0,25
+12629.png,No passing for vehicles over 3.5 metric tons,0.9998360872268677,10
